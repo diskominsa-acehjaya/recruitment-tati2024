@@ -1,0 +1,35 @@
+{
+  "openRecruitment" : [{
+    "programmerJunior" : {
+      "maxAges"    : 35,
+      "salary"     : "6.205.000",
+      "experience" : "1 - 3 years",
+      "minEdu"     : "Associate Degree"
+    },
+    "programmerSenior" : {
+      "maxAges"    : 42,
+      "salary"     : "7.905.000",
+      "experience" : "5 years",
+      "minEdu"     : "Bachelor"
+    },
+    "mobileDeveloper" : {
+      "maxAges"    : 35,
+      "salary"     : "7.205.000",
+      "experience" : "3 - 5 years",
+      "minEdu"     : "Associate Degree"
+    },
+    "systemAnalyst" : {
+      "maxAges"    : 45,
+      "salary"     : "8.205.000",
+      "experience" : "5 years",
+      "minEdu"     : "Bachelor"
+    }
+  }],
+  "Qualifications":[
+    "Experts IT Skills",
+    "Strong logical thinking",
+    "Good in Algorithm",
+    "PHP/Javascript allowed",
+    "Could work as a team"
+  ]
+}
